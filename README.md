@@ -10,4 +10,4 @@ Control your computer from your phone or browser.
 
 This public repository contains official installers, update metadata, and branding only. Application source is kept in a separate private repository.
 
-The current desktop installers are not publisher-signed/notarized. Operating systems may display a security warning on first installation.
+The Mac 0.3.1 installer is Developer ID signed by RAN INNOVATIONS LLC and notarized by Apple. The Windows 0.3.0 installer is unsigned and may display a first-install security warning.
